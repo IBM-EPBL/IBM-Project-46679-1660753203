@@ -12,7 +12,7 @@
     <h3> TEAM MEMBERS : </h3>
     <p style="color:blue;">
         <ol>
-            <li>SETHIL KUMAR S</li>
+            <li>SENTHIL KUMAR S</li>
             <li>SATHYAKANTH R</li>
             <li>SANKAR R</li>
             <li>DINESH KUMAR M</li>
